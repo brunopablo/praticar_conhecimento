@@ -1,0 +1,1 @@
+Utilize o texto presente no arquivo cougars_pt_br para criar uma página web utilizando definindo a hierarquia textual com as tags apropriadas para cabeçalhos como: títulos, subtítulos e paragrafos.
