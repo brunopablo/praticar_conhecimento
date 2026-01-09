@@ -1,0 +1,1 @@
+No arquivo .html coloque 3 elementos de título (h1, h2, h3) e coloque cores personalizadas para cada elementos utilizando CSS: inline, internal e external.
