@@ -1,0 +1,10 @@
+Crie um formulario para cadastro de 
+um curso solicitando as seguintes informações:
+
+Titulo do Curso
+Descricao do Curso
+Nível de conhecimento prévio alvo (iniciante, intermediario, avançado)
+Pronto para publicar o curso (caixa de seleção)
+Cadastrar
+
+(É necessário que todos os campos sejam preenchidos)
