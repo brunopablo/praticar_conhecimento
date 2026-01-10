@@ -1,0 +1,12 @@
+
+Aplique a cor vermelho neste texto utilizando rgb color (sem utilizar o seletor de cores da IDE)
+
+Aplique a cor verde neste texto utilizando rgb color (sem utilizar o seletor de cores da IDE)
+
+Aplique a cor azul neste texto utilizando valor hexadecimal (sem utilizar o seletor de cores da IDE)
+
+Crie um botão com fundo preto e texto branco (sem utilizar o seleter de cores da IDE)
+
+Aplique um fundo azul (sem vermelho ou green) e aplique a transparencia de 50% com RGBA
+
+Aplique um fundo na faixa da cor laranja (pode utilizar color picker se necessário) e aplique 50% de transparencia com RGBA
