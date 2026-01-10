@@ -1,0 +1,7 @@
+Deixe este texto com 60px, com alinhamento horizontal no centro, e com uma fonte sans serif
+
+Deixe este texto em itálico com tamanho da fonte 50px com cor do espectro roxo utilizando uma especificação HEXADECIMAL
+
+Deixe este texto com fonte indie flower (google fonts) e tamanho 35px, com cor do espectro azul utilizando uma especificação RGB
+
+Deixe este texto com peso de fonte leve 300-100 e tamanho de 40px, e coloque altura da linha * 2 com espaçamento entre letras 10px
