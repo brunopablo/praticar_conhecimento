@@ -1,0 +1,36 @@
+body{
+    background-color: #fdf9fd;
+    font-family: 'Roboto Mono';
+}
+
+div{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 50px;
+    letter-spacing: 2px;
+}
+
+h1{
+    font-size: 62px;
+    line-height: 1;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2;
+}
+
+span{
+    text-shadow: 
+        0px -4px #0c2ffb,
+        0px -8px  #2cfdfc,
+        0px 4px #fb203b,
+        0px 8px #fefc4b;
+}

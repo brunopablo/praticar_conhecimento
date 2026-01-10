@@ -1,0 +1,16 @@
+Crie uma web page para um evento chamado Cantilever o título é "Cantilever é uma conferencia para programadores que pensam como artistas"
+
+O aluno deve escolhar uma data para o evento e deve colocar uma descrição aleatória (utilizar texto gerado lorem)
+
+Estrutura: (Titulo, Data, Paragrafo)
+
+Requisitos:
+    Utilizar uma fonte do google fonts, adicionar os tipos de estilo de texto abordados nas aulas anteriores (recomendado fonte do tipo mono)
+
+    Utilizar um background com cor personalizada.
+
+    elementos html recomendados (div, h1, h2, p)
+
+Na pasta exemplo tem um possível resultado, mas o aluno pode estilar como preferir.
+
+Importante o arquivo solucao.html e solucao.css tem um exemplo de como reproduzir o conteúdo mostrado no exemplo, mas o aluno deve lembra-se que sem responsividade em cada dispositivo o layout fica diferente, então é apenas para guiar o passo a passo para solução.
