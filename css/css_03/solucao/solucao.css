@@ -1,0 +1,56 @@
+/* Arquivo com solucao completa para exercicio 3 sobre CSS */
+
+/* Defina a fonte de todo o corpo do texto como sans-serif */
+
+body{
+    font-family: 'Montserrat';
+}
+
+/*  Selecione o elemento com o ID 'leafy', defina a cor dele como #1d6e09 e aplique um sublinhado #1d6e09.
+ */
+
+#leafy{
+    color: #1d6e09;
+    text-decoration: underline;
+    text-decoration-color: #1d6e09;
+}
+
+/* Alinhe o título h1 ao centro. Defina a fonte para um tamanho menor (sem negrito) e 40px de largura. */
+h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+/* Defina o tamanho da fonte dos parágrafos para 24px. */
+p{
+    font-size: 24px;
+}
+
+/* Selecione os elementos com a classe 'latin' e aplique o texto em itálico.*/
+.latin{
+    font-style: italic;
+}
+
+/* Selecione todos os títulos h2 e aplique letras maiúsculas a eles usando css) */
+h2{
+    text-transform: uppercase;
+}
+
+/*  Selecione todos os links, remova o sublinhado e defina a cor para laranja.*/
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+/* Crie estilos para que os links fiquem vermelhos e com um sublinhado vermelho ao passar o mouse sobre eles.*/
+a:hover{
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+/*  Faça com que a lista não ordenada use quadrados como marcadores de lista.*/
+ul{
+    list-style: square;
+}
